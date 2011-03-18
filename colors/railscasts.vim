@@ -26,7 +26,7 @@ let g:colors_name = "railscasts"
 " Light Green  #A5C261
 " Tan          #FFC66D
 
-hi Normal                    guifg=#E6E1DC guibg=#2B2B2B
+hi Normal                    guifg=#E6E1DC guibg=#1c1c1c
 hi Cursor                    guibg=#FFFFFF
 hi CursorLine                guibg=#333435
 hi Search                    guibg=#5A647E
@@ -125,4 +125,3 @@ hi link htmlEndTag           xmlEndTag
 hi xmlTag                    guifg=#E8BF6A
 hi xmlTagName                guifg=#E8BF6A
 hi xmlEndTag                 guifg=#E8BF6A
-
